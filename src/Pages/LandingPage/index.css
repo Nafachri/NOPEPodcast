@@ -1,0 +1,17 @@
+/* Row 2 */
+
+.row1 {
+  justify-content: center;
+  padding-top: 50px;
+}
+.h3-row1 {
+  color: white;
+  padding-left: 50px;
+  padding-top: 50px;
+  font-family: "Roboto Slab", serif;
+}
+.text-row1 {
+  color: white;
+  padding-left: 50px;
+  font-family: "Roboto Slab", serif;
+}
