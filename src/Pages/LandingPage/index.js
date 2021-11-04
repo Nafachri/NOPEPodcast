@@ -20,7 +20,7 @@ const LandingPage = () => {
             Adalah Podcast yang dibuat oleh Naufal Al-Fachri dan Muhammad Rezky
             Darmawan
             <br />
-            yang merupakan deeptalk-nya "Mas-Mas Biasa" di Jakarta.Kita upload
+            yang merupakan deeptalk-nya "Mas-Mas Biasa" di Jakarta. Kita upload
             tergantung <br />
             mamang editing-nya lagi mager atau ngga wkwk &#128517;
           </p>
