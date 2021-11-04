@@ -1,0 +1,60 @@
+/* Row 1 Styling*/
+
+.row1 {
+  justify-content: center;
+  padding-top: 50px;
+}
+.h2-row1 {
+  color: #7fd6c2;
+  padding-left: 50px;
+  padding-top: 20px;
+  font-family: "Fira Sans", sans-serif;
+  font-style: italic;
+  font-weight: 800;
+}
+.text-row1 {
+  color: white;
+  padding-left: 50px;
+  font-family: "Roboto Slab", serif;
+  font-weight: 600;
+}
+
+/* Button Styling */
+
+.buttonCustom {
+  transition: transform 0.5s;
+}
+
+.buttonCustom:hover {
+  transform: scale(1.1);
+}
+
+/* iframe Styling */
+
+.hover-custom {
+  transition: transform 0.5s;
+}
+
+.hover-custom:hover {
+  transform: scale(1.1);
+}
+
+/* Row 2 */
+.row2 {
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.h2-row2 {
+  color: #7fd6c2;
+  padding-right: 50px;
+  padding-top: 20px;
+  font-family: "Fira Sans", sans-serif;
+  font-style: italic;
+  font-weight: 800;
+}
+
+.logo-brand {
+  color: white;
+  justify-content: center;
+}
