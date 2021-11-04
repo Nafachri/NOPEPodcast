@@ -5,9 +5,9 @@
   padding-top: 50px;
 }
 .h2-row1 {
-  color: white;
+  color: #7fd6c2;
   padding-left: 50px;
-  padding-top: 50px;
+  padding-top: 20px;
   font-family: "Fira Sans", sans-serif;
   font-style: italic;
   font-weight: 800;
@@ -31,11 +31,11 @@
 
 /* iframe Styling */
 
-.iframeCustom {
+.hover-custom {
   transition: transform 0.5s;
 }
 
-.iframeCustom:hover {
+.hover-custom:hover {
   transform: scale(1.1);
 }
 
@@ -46,10 +46,15 @@
 }
 
 .h2-row2 {
-  color: white;
+  color: #7fd6c2;
   padding-right: 50px;
-  padding-top: 50px;
+  padding-top: 20px;
   font-family: "Fira Sans", sans-serif;
   font-style: italic;
   font-weight: 800;
+}
+
+.logo-brand {
+  color: white;
+  justify-content: center;
 }
